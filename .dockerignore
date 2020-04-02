@@ -1,0 +1,13 @@
+drone-autoscaler
+NOTES.md
+release
+vendor
+*.sqlite
+*.sqlite3
+*.bak
+*.out
+*.db
+*.env
+.git
+.github
+Dockerfile
